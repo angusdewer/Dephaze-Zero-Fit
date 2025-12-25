@@ -63,7 +63,7 @@ python galaxy_rotation_curves.py
 
 
 ### Scientific Reference & Core Constants
-This code implements the axioms detailed in the foundational paper: **"Dephaze: A Generative Phase-Field Framework for Cosmological and Quantum Anomalies" (Version 2.0, 2025).**
+This code implements the axioms detailed in the foundational paper: **"Dephaze: A Generative Phase-Field Framework for Cosmological and Quantum Anomalies" (Version v.1, 2025).**
 - $\Phi = 1.618033...$ (Golden Ratio)
 - $\Phi^3 = 4.236067...$ (Topological Invariant)
 - $C \approx 1.08 \times 10^4$ (Galactic Constant)
