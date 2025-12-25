@@ -3,7 +3,7 @@
 
 **Author:** Angus Dewer  
 **Status:** Research / Demonstration Code  
-**DOI:** [10.5281/zenodo.17964792](https://doi.org/10.5281/zenodo.17964792)  
+**DOI:**   https://doi.org/10.5281/zenodo.17618280
 **License:** Custom (Reading and research exploration permitted)
 
 ---
