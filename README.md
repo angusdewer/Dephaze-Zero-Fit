@@ -60,7 +60,7 @@ Every script is executable standalone. Running a script will perform the simulat
 pip install numpy matplotlib scipy
 python flyby_anomaly_predictor.py
 python galaxy_rotation_curves.py
-```
+
 
 ### Scientific Reference & Core Constants
 This code implements the axioms detailed in the foundational paper: **"Dephaze: A Generative Phase-Field Framework for Cosmological and Quantum Anomalies" (Version 2.0, 2025).**
@@ -68,7 +68,7 @@ This code implements the axioms detailed in the foundational paper: **"Dephaze: 
 - $\Phi^3 = 4.236067...$ (Topological Invariant)
 - $C \approx 1.08 \times 10^4$ (Galactic Constant)
 
----
+
 
 ## Contact & Collaboration
 For research correspondence and inquiries regarding the DEPHAZE axioms:  
@@ -76,4 +76,3 @@ For research correspondence and inquiries regarding the DEPHAZE axioms:
 
 © 1992–2025 Angus Dewer. All rights reserved.  
 *Reading, execution, and non-commercial research analysis are permitted. Redistribution or modification requires written permission.*
-```
