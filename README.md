@@ -57,10 +57,10 @@ These simulations are **NOT** statistical models, neural networks, or curve-fitt
 ### Execution
 Every script is executable standalone. Running a script will perform the simulation, print a diagnostic report to the terminal, and save a high-resolution analysis figure (`.png`).
 
--cmd
--pip install numpy matplotlib scipy
--python flyby_anomaly_predictor.py
--python galaxy_rotation_curves.py
+- cmd
+- pip install numpy matplotlib scipy
+- python flyby_anomaly_predictor.py
+- python galaxy_rotation_curves.py
 
 
 ### Scientific Reference & Core Constants
