@@ -46,7 +46,7 @@ These simulations are **NOT** statistical models, neural networks, or curve-fitt
 ### 6. Meta-Level (The Observer)
 *   `observer_measurement_layer.py`: **The Master Simulation.** Proves that measurement is an interaction between the system and its sampling method, creating the perceived past and memory through $\rho_{eff}$ amplification.
 
----
+ 
 
 ## Installation, Usage & Scientific Reference
 
@@ -56,7 +56,7 @@ These simulations are **NOT** statistical models, neural networks, or curve-fitt
 
 ### Execution
 Every script is executable standalone. Running a script will perform the simulation, print a diagnostic report to the terminal, and save a high-resolution analysis figure (`.png`).
-```cmd
+ cmd
 pip install numpy matplotlib scipy
 python flyby_anomaly_predictor.py
 python galaxy_rotation_curves.py
