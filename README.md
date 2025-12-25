@@ -1,10 +1,14 @@
-  ```markdown
+  code
+Markdown
+download
+content_copy
+expand_less
 # DEPHAZE: Unified Zero-Fit Simulation Suite
 ### A Generative Phase-Field Framework (1992–2025)
 
 **Author:** Angus Dewer  
 **Status:** Research / Demonstration Code  
-**DOI:**  https://doi.org/10.5281/zenodo.17618280
+**DOI:** [10.5281/zenodo.17964792](https://doi.org/10.5281/zenodo.17964792)  
 **License:** Custom (Reading and research exploration permitted)
 
 ---
@@ -72,27 +76,48 @@ pip install numpy matplotlib scipy
 # Run a specific demonstration
 python flyby_anomaly_predictor.py
 python galaxy_rotation_curves.py
-```
+Scientific Reference
 
----
+This code implements the axioms detailed in the foundational paper:
+"Dephaze: A Generative Phase-Field Framework for Cosmological and Quantum Anomalies" (Version 2.0, 2025).
 
-## Scientific Reference
+Core Constants:
 
-This code implements the axioms detailed in the foundational paper:  
-**"Dephaze: A Generative Phase-Field Framework for Cosmological and Quantum Anomalies" (Version 2.0, 2025).**
+Φ
+=
+1.618033...
+Φ=1.618033...
+ (Golden Ratio)
 
-**Core Constants:**
-- $\Phi = 1.618033...$ (Golden Ratio)
-- $\Phi^3 = 4.236067...$ (Topological Invariant)
-- $C \approx 1.08 \times 10^4$ (Galactic Constant)
+Φ
+3
+=
+4.236067...
+Φ
+3
+=4.236067...
+ (Topological Invariant)
 
----
+𝐶
+≈
+1.08
+×
+10
+4
+C≈1.08×10
+4
+ (Galactic Constant)
 
-## Contact & Collaboration
+Contact & Collaboration
 
-For research correspondence and inquiries regarding the DEPHAZE axioms:  
-📧 **dewerangus@gmail.com**
+For research correspondence and inquiries regarding the DEPHAZE axioms:
+📧 dewerangus@gmail.com
 
-© 1992–2025 Angus Dewer. All rights reserved.  
-*Reading, execution, and non-commercial research analysis are permitted. Redistribution or modification requires written permission.*
-```
+© 1992–2025 Angus Dewer. All rights reserved.
+Reading, execution, and non-commercial research analysis are permitted. Redistribution or modification requires written permission.
+
+code
+Code
+download
+content_copy
+expand_less
