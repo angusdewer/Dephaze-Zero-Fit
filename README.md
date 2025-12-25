@@ -1,18 +1,15 @@
- # DEPHAZE: Unified Zero-Fit Simulation Suite
+# DEPHAZE: Unified Zero-Fit Simulation Suite
 ### A Generative Phase-Field Framework (1992–2025)
 
 **Author:** Angus Dewer  
 **Status:** Research / Demonstration Code  
-**DOI:**  https://doi.org/10.5281/zenodo.17618280 
+**DOI:** [10.5281/zenodo.17964792](https://doi.org/10.5281/zenodo.17964792)  
 **License:** Custom (Reading and research exploration permitted)
 
 ---
 
 ## Abstract
-
-**DEPHAZE** is an axiomatic generative framework treating observable reality as a projection from a timeless ground state ($\Omega_0$) into manifest configurations ($\Psi$). Unlike standard models ($\Lambda$CDM, QFT), this framework derives cosmological, quantum, and biological phenomena from structural invariants without introducing dark matter, dark energy, or stochastic wavefunction collapse.
-
-This repository contains **16 self-contained Python demonstrations** proving that systemic stability across all scales emerges from the same topological invariant: **$\Phi^3 \approx 4.236$**.
+**DEPHAZE** is an axiomatic generative framework treating observable reality as a projection from a timeless ground state ($\Omega_0$) into manifest configurations ($\Psi$). Unlike standard models ($\Lambda$CDM, QFT), this framework derives cosmological, quantum, and biological phenomena from structural invariants without introducing dark matter, dark energy, or stochastic wavefunction collapse. This repository contains **16 self-contained Python demonstrations** proving that systemic stability across all scales emerges from the same topological invariant: **$\Phi^3 \approx 4.236$**.
 
 ### Why "Zero-Fit"?
 These simulations are **NOT** statistical models, neural networks, or curve-fitting exercises. There are no "trainable" parameters. All structure, stability, and complexity emerge purely from internal dynamics and geometric constraints dictated by the $\Phi^3$ topology.
@@ -20,8 +17,6 @@ These simulations are **NOT** statistical models, neural networks, or curve-fitt
 ---
 
 ## Included Demonstrations
-
-The suite is organized into six primary scientific domains:
 
 ### 1. Quantum & Microscopic Systems
 *   `quantum_measurement.py`: Replaces probabilistic collapse with deterministic bistable relaxation.
@@ -53,53 +48,32 @@ The suite is organized into six primary scientific domains:
 
 ---
 
-## Installation & Usage
+## Installation, Usage & Scientific Reference
 
 ### Requirements
 - Python 3.10 or higher
-- `numpy`
-- `matplotlib`
-- `scipy`
+- `numpy`, `matplotlib`, `scipy`
 
 ### Execution
 Every script is executable standalone. Running a script will perform the simulation, print a diagnostic report to the terminal, and save a high-resolution analysis figure (`.png`).
-
 ```cmd
-# Install dependencies
 pip install numpy matplotlib scipy
-
-# Run a specific demonstration (example)
 python flyby_anomaly_predictor.py
 python galaxy_rotation_curves.py
-Scientific Reference
-This code implements the axioms detailed in the foundational paper:
-"Dephaze: A Generative Phase-Field Framework for Cosmological and Quantum Anomalies" (Version 2.0, 2025).
-Core Constants:
-Φ
-=
-1.618033...
-Φ=1.618033...
- (Golden Ratio)
-Φ
-3
-=
-4.236067...
-Φ 
-3
- =4.236067...
- (Topological Invariant)
-C
-≈
-1.08
-×
-10
-4
-C≈1.08×10 
-4
- 
- (Galactic Constant)
-Contact & Collaboration
-For research correspondence and inquiries regarding the DEPHAZE axioms:
-📧 dewerangus@gmail.com
-© 1992–2025 Angus Dewer. All rights reserved.
-Reading, execution, and non-commercial research analysis are permitted. Redistribution or modification requires written permission.
+```
+
+### Scientific Reference & Core Constants
+This code implements the axioms detailed in the foundational paper: **"Dephaze: A Generative Phase-Field Framework for Cosmological and Quantum Anomalies" (Version 2.0, 2025).**
+- $\Phi = 1.618033...$ (Golden Ratio)
+- $\Phi^3 = 4.236067...$ (Topological Invariant)
+- $C \approx 1.08 \times 10^4$ (Galactic Constant)
+
+---
+
+## Contact & Collaboration
+For research correspondence and inquiries regarding the DEPHAZE axioms:  
+📧 **dewerangus@gmail.com**
+
+© 1992–2025 Angus Dewer. All rights reserved.  
+*Reading, execution, and non-commercial research analysis are permitted. Redistribution or modification requires written permission.*
+```
