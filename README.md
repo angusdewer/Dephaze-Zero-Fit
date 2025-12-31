@@ -5,7 +5,7 @@
 **Status:** Research / Demonstration Code / 
 ---
 **demo:**  https://huggingface.co/angusdewer  
-**DOI:**  https://doi.org/10.5281/zenodo.17618280  
+**DOI:**  https://doi.org/10.5281/zenodo.17618280  , https://doi.org/10.5281/zenodo.18108386
 ---
 **License:** Custom Reading and research exploration permitted
 
